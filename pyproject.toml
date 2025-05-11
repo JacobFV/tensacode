@@ -1,6 +1,7 @@
 [project]
 authors = [{name = "Jacob Valdez", email = "jacobfv123@gmail.com"}]
 dependencies = [
+    "glom>=24.11.0",
     "pydantic>=2.11.4",
     "sentence-transformers>=4.1.0",
     "torch>=2.7.0",
